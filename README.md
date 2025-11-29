@@ -3,6 +3,7 @@
 The Library Management System is a modern, efficient, and AI-powered solution designed to manage library operations with ease. Built with a CRM-like structure, it helps librarians automate workflows while offering students a seamless experience for accessing books, submitting assignments, and receiving plagiarism reports.
 
 🚀 Key Features
+
 🔖 Book & Inventory Management
 
 Add, update, search, and delete books easily
@@ -30,6 +31,14 @@ Quick access to student data, book records, and activity logs
 Track issued books, late submissions, and usage statistics
 
 Generate summaries for administrative use
+
+
+
+
+
+
+You can contact below for regarding this project, feel free to dm!:
+piyushkaushik121@gmail.com
 
 🔐 Secure & Reliable
 
