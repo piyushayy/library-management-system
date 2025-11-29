@@ -32,6 +32,11 @@ Track issued books, late submissions, and usage statistics
 
 Generate summaries for administrative use
 
+🔐 Secure & Reliable
+
+Role-based login system
+
+Organized backend for clean data handling
 
 
 
@@ -39,9 +44,3 @@ Generate summaries for administrative use
 
 You can contact below for regarding this project, feel free to dm!:
 piyushkaushik121@gmail.com
-
-🔐 Secure & Reliable
-
-Role-based login system
-
-Organized backend for clean data handling
