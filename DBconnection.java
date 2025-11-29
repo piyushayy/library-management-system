@@ -17,7 +17,7 @@ public class DBconnection {
             
             // 3. YOUR MySQL Username and Password
             // CHANGE "YOUR_PASSWORD_HERE" to the password you created during installation!
-            Connection con = DriverManager.getConnection(url, "root", "1712");
+            Connection con = DriverManager.getConnection(url, "username", "password");
             
             return con;
             
@@ -26,4 +26,5 @@ public class DBconnection {
             return null;
         }
     }
+
 }
